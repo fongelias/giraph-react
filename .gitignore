@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# builds
+lib/
+
+# log files:
+yarn-error.log
+.DS_Store
